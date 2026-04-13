@@ -6,4 +6,4 @@
 #define PRODUCT           Ampex RT-102 keyboard converter
                           
 #define MATRIX_ROWS       8
-#define MATRIX_COLS       16
+#define MATRIX_COLS       13

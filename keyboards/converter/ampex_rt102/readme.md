@@ -7,7 +7,7 @@ Hardware Supported: Ampex RT-102, Teensy
 
 Make example for this keyboard (after setting up your build environment):
 
-    make converter/ampex_rt102:default
+    make converter/ampex_rt-102:default
 
 The keyboard does not send up transitions.
 The mapping of shifts is handled specially and so not very flexible.
